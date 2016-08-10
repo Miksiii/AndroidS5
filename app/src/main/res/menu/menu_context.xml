@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/id_cs324"
+        android:title="Skripting Jezici"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/id_ma101"
+        android:title="Matematika"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/id_om350"
+        android:title="Preduzetnistvo"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/id_cs111"
+        android:title="Objektno-Orientisano Programiranje"
+        app:showAsAction="never" />
+
+</menu>
